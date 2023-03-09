@@ -6,7 +6,7 @@
 
 📚 In addition to this, I have also partaken in and enjoyed doing academic research! I have worked on a humanitarian research project funded by the Bill & Melinda Gates Foundation under Professor Deborah Stacey called the [Global Burden of Animal Disease](https://animalhealthmetrics.org/). 
 
-🧮 In addition to this, I researched algorithms related to de Bruijn Sequences, Necklaces, Lyndon words with Professor Joseph Sawada where I wrote an undergraduate thesis of an original algorithm to generate [largest fixed-content Necklaces](https://github.com/Matt-Ng/Largest-Fixed-Content-Necklace).
+🧮 In addition to this, I researched algorithms related to de Bruijn Sequences, Necklaces, Lyndon words with Professor Joseph Sawada where I wrote an undergraduate thesis of an original algorithm to generate [largest fixed-content Necklaces](https://github.com/Matt-Ng/Largest-Fixed-Content-Necklace/blob/main/Matthew_Ng_Fixed_Content_Necklaces.pdf).
 
 🕺 In my free time, I enjoy drawing, art, learning languages, and singing!
 
