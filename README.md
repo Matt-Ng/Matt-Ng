@@ -1,10 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Matthew! I am a Computer Science student at the University of Guelph graduating in Spring 2024. This is the hub of my little techonlogical creations and passion projects.
 
 🏫 Through my time in University, I've previously interned at Google, twice at Microsoft, and for a distributed computing company called Distributive. I am currently interning at Cisco for the Managed Services Accelerator team. 
 
-📚 In addition to this, I have also partaken in and enjoyed doing academic research! I have worked on a humanitarian research project funded by the Bill & Melinda Gates Foundation under Professor Deborah Stacey called the [Global Burden of Animal Disease](https://animalhealthmetrics.org/). In addition to this, I researched combinatorial algorithms related to de Bruijn Sequences, Necklaces, Lyndon words with Professor Joseph Sawada where I wrote an undergraduate thesis of an original algorithm to generate [largest fixed-content Necklaces](https://github.com/Matt-Ng/Largest-Fixed-Content-Necklace).
+📚 In addition to this, I have also partaken in and enjoyed doing academic research! I have worked on a humanitarian research project funded by the Bill & Melinda Gates Foundation under Professor Deborah Stacey called the [Global Burden of Animal Disease](https://animalhealthmetrics.org/). 
+
+🧮 In addition to this, I researched algorithms related to de Bruijn Sequences, Necklaces, Lyndon words with Professor Joseph Sawada where I wrote an undergraduate thesis of an original algorithm to generate [largest fixed-content Necklaces](https://github.com/Matt-Ng/Largest-Fixed-Content-Necklace).
 
 🕺 In my free time, I enjoy drawing, art, learning languages, and singing!
 
