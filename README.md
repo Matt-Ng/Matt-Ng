@@ -1,6 +1,6 @@
 # Hi there!
 
-👋 My name is Matthew. I am a Computer Science student at the University of Guelph graduating in Spring 2024. This is the hub of my little technological creations and passion projects.
+👋 My name is Matt. I am a Computer Science student at the University of Guelph graduating in Spring 2024. This is the hub of my little technological creations and passion projects.
 
 🏫 Through my time at University, I've previously interned at Google, twice at Microsoft, and for a distributed computing company called Distributive. I am currently interning at Cisco for the Managed Services Accelerator team. 
 
