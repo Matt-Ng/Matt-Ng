@@ -12,7 +12,7 @@
 
 📫 How to reach me: Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/matt-ng/)
 
-📜 Link to my [resume](https://matt-ng.github.io/assets/Matthew_Ng_Resume.pdf)
+📜 Here is my [Resume](https://matt-ng.github.io/assets/Matthew_Ng_Resume.pdf)
 
 <!--
 **Matt-Ng/Matt-Ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
