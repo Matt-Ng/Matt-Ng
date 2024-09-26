@@ -1,6 +1,6 @@
 # Hi there!
 
-👋 My name is Matt. I am a Computer Science student at the University of Guelph graduating in Spring 2024. This is the hub of my little technological creations and passion projects.
+👋 My name is Matt. I am a Software Engineer at Google, on the Cloud BackupDR team. This is the hub of my little technological creations and passion projects.
 
 🏫 Through my time at University, I've previously interned twice at Google, twice at Microsoft, Cisco, and for a distributed computing company called Distributive.
 
